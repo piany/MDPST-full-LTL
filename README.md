@@ -21,5 +21,8 @@ Dependence
 * Compile [ltl2dstar executable](http://www.ltl2dstar.de) for your OS.
 * Compile [ltl2ldba executable](https://www7.in.tum.de/~kretinsk/rabinizer4.html) for your OS.  
 
+* ----
+Before Running
+----
 * In ltl2dra.py, def run_ltl2dra(formula), remember to replace the directories "ltl2dra_dir" and "ltl2ba_dir" with you own 
 * In automaton.py, def ltl2auto(self,ltl), remember to replace the directory "out" with your own
